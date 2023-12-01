@@ -1,4 +1,4 @@
-![Header](https://github.com/RostyslavG/RostyslavG/blob/main/assets/header.jpg)
+![Header](https://github.com/RostyslavG/RostyslavG/blob/main/assets/header.png)
 
 ### Hi there 👋
 
