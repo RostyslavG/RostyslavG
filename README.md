@@ -1,3 +1,4 @@
+![Моє зображення](assets/software-development.jpg)
 ## Hello World !!!
 
 <!--
